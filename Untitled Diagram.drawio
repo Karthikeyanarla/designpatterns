@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T09:07:07.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="23.1.1" etag="lPWae_hgvXwEjswmaRA5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-25T09:57:06.168Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="A5tV1VukBl0zbzpfCCE3" version="24.6.2" type="github">
   <diagram name="Page-1" id="pdb6Gz0Ij0OkZJUwplEV">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-1" value="&lt;div&gt;Address ID&lt;/div&gt;&lt;div&gt;Address Type&lt;/div&gt;&lt;div&gt;Last Name&lt;/div&gt;&lt;div&gt;First Name&lt;/div&gt;&lt;div&gt;Mobile Number&lt;/div&gt;&lt;div&gt;Email&lt;/div&gt;Room No/ Flat No&lt;div&gt;Area/Street&lt;/div&gt;&lt;div&gt;Latitude&lt;/div&gt;&lt;div&gt;Longitude&lt;/div&gt;&lt;div&gt;&lt;div&gt;Landmark&lt;br&gt;&lt;div&gt;Pincode&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;State&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="440" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-2" value="Id: mobile&lt;div&gt;email&lt;/div&gt;&lt;div&gt;password&lt;/div&gt;&lt;div&gt;JWT Authentication&lt;/div&gt;&lt;div&gt;Google Sign&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="260" width="170" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-3" value="Security&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Addresses that stored in cloud should be encrypted.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="70" width="260" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-4" value="Projects Goals&lt;div&gt;&lt;div&gt;1. Resume (Real World Problem)&lt;/div&gt;&lt;div&gt;2. Authentication and Authorisation&lt;/div&gt;&lt;div&gt;(Sign in with Google)&lt;/div&gt;&lt;div&gt;3. AWS tier deploy&lt;/div&gt;&lt;div&gt;4. Docker&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="70" width="160" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-7" value="Amazon&lt;div&gt;Flipkart&lt;/div&gt;&lt;div&gt;Swiggy&lt;br&gt;Zomato&lt;/div&gt;&lt;div&gt;Zepto&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="440" width="170" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-8" value="1. Requirement Analysis&lt;div&gt;2. Database Selection&lt;/div&gt;&lt;div&gt;3. Backend Stack Selection&lt;/div&gt;&lt;div&gt;4. Frontend Stack Selection&lt;/div&gt;&lt;div&gt;5. Testing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="70" width="230" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-10" value="10 percent population&lt;div&gt;They add to cart due to address entering burden they don&#39;t order&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-12" value="&lt;div&gt;Testing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Integration&lt;div&gt;Unit&lt;/div&gt;&lt;div&gt;Load&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="260" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-14" value="1. User ID&lt;div&gt;2. Mobile Number ID&lt;/div&gt;&lt;div&gt;3. Email ID&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="440" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-18" value="Backend Framework: Go&lt;div&gt;Frontend Stack Selection: Flutter&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Frontend Design: Karthikeya&lt;/div&gt;&lt;div&gt;Backend Design: Jayesh&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Both: Zeeshan&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="210" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-19" value="Single Tier&lt;div&gt;HTML Pages and Endpoint in one Code Base&lt;/div&gt;&lt;div&gt;MVC applications&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-25" value="1. User login (Post)&lt;div&gt;2. User Register (Post)&lt;/div&gt;&lt;div&gt;3. Store Address (Post)&lt;/div&gt;&lt;div&gt;4. Get Address (Post All)&lt;/div&gt;&lt;div&gt;5. Get Address (Post Single)&lt;/div&gt;&lt;div&gt;6. Get Address (Filters)&lt;/div&gt;&lt;div&gt;7. Get Address (By pin code)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="690" width="390" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="v9CBHpRS_1jLGyiioo6O-26" value="1. REST API&lt;br&gt;2. GRAPH QL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="690" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
